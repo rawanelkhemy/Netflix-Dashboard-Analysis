@@ -1,51 +1,59 @@
 # Netflix Movie Insights Dashboard
 
-This project was created as part of a Data Analysis course assigned by DEPI 
-(Data Exploration & Projects Initiative). The goal was to analyze real-world 
-movie data and present it using an interactive dashboard built with Power BI.
+This is a Power BI project I created as part of my Data Analysis training with DEPI 
+(Data Exploration & Projects Initiative). I worked with a Netflix movie dataset and 
+turned it into a fully interactive dashboard that reveals trends and insights 
+about movies on the platform.
 
-The dataset includes basic Netflix movie information such as:
-⋆ Movie Name
-⋆ Release Year
-⋆ Age Rating
-⋆ Duration
-⋆ Genre / Category
-⋆ IMDb Rating
-
-────────────────────────────
-
-✧ Dashboard Objectives ✧
-
-This dashboard answers several key questions:
-→ What are the most common movie genres?
-→ Which age rating appears most frequently?
-→ How have different genres changed across years?
-→ What are the top 10 longest movies?
-→ What are the highest-rated movies?
-
-The goal is to extract insights from simple metadata and highlight trends
-in the Netflix movie space.
+The dataset includes:
+⋆ Movie Name  
+⋆ Release Year  
+⋆ Age Rating  
+⋆ Duration  
+⋆ Genre (Category)  
+⋆ IMDb Rating  
 
 ────────────────────────────
 
-✧ Key Features ✧
+✧ What I Wanted to Explore ✧
 
-• Interactive slicers for age rating, year, and genre  
-• Heatmap to visualize category trends across time  
-• Visual KPI cards and metrics  
-• Clean design with bar charts, column visuals, and smart filtering  
+→ What are the most common genres on Netflix?  
+→ Which age rating appears the most?  
+→ How have genres changed over time? 
+→ Which movies have the highest IMDb ratings?
+→What is the total number of movies available?
+→What is the total duration of all movies in hours?
+→How many movies are available per year?
+→What is the distribution of movies by Age Rating?
+→Which year had the highest average IMDb rating?
+→Which category has the highest average IMDb rating?
+→How does movie duration vary by category?
+
+I focused on using the data to find patterns and make it easy to explore those patterns visually.
 
 ────────────────────────────
 
-✧ Tools Used ✧
+✧ What I Built ✧
+
+• A clean dashboard with visual KPIs and key metrics  
+• Interactive slicers to filter by age rating, category, and year   
+• Calculated columns and measures using DAX  
+• Charts like bar charts, column charts, and card visuals  
+
+────────────────────────────
+
+✧ Tools I Used ✧
 
 • Power BI  
+• Power Query for cleaning and transformation  
 
 ────────────────────────────
 
-✧ About ✧
+✧ About Me ✧
 
-This project was completed as part of my learning journey in data analytics, 
-under the DEPI program. It reflects beginner-level data exploration, dashboard 
-design, and storytelling using real data — with plans to improve and build on 
-this portfolio in the future.
+I'm currently learning data analysis and building my portfolio step by step.  
+This dashboard is one of the first real projects I’ve worked on using Power BI, 
+and it helped me understand how to go from raw data to visual insights.
+
+This project was assigned to me as part of my journey with **DEPI**, 
+and I really enjoyed working on it ☁︎  
